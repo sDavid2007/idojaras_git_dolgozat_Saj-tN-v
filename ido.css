@@ -84,3 +84,6 @@ h1, h2{
 	width: 5vw;
 
 }
+input:active{
+	background-color: #808183;
+}
