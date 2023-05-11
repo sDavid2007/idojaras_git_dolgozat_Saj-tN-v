@@ -79,3 +79,8 @@ h1, h2{
 	color: #243f84 ;
 	text-decoration: underline;
 }
+#top_img{
+	float: right;
+	width: 5vw;
+
+}
