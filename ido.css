@@ -75,3 +75,7 @@ h1, h2{
 	font-weight: bold;
 	text-decoration: none;
 }
+.color{
+	color: #243f84 ;
+	text-decoration: underline;
+}
