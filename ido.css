@@ -50,8 +50,15 @@ img
 ul
 {
 	font-size:small ;
+	margin-left: 10%;
+	text-decoration: none;
+	
 }
-
+li{
+	list-style-image: url(nap.png);
+	color: #808183;
+	font-weight: bold;
+}
 input
 {
 	font-size:medium;
